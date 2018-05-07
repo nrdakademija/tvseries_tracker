@@ -1,0 +1,16 @@
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\bin\Debug\netcoreapp2.0\Tv_series_tracker.deps.json
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\bin\Debug\netcoreapp2.0\Tv_series_tracker.runtimeconfig.json
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\bin\Debug\netcoreapp2.0\Tv_series_tracker.runtimeconfig.dev.json
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\bin\Debug\netcoreapp2.0\Tv_series_tracker.dll
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\obj\Debug\netcoreapp2.0\Tv_series_tracker.csprojResolveAssemblyReference.cache
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\obj\Debug\netcoreapp2.0\Tv_series_tracker.csproj.CoreCompileInputs.cache
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\obj\Debug\netcoreapp2.0\Tv_series_tracker.AssemblyInfoInputs.cache
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\obj\Debug\netcoreapp2.0\Tv_series_tracker.AssemblyInfo.cs
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\bin\Debug\netcoreapp2.0\Tv_series_tracker.pdb
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\obj\Debug\netcoreapp2.0\Tv_series_tracker.dll
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\obj\Debug\netcoreapp2.0\Tv_series_tracker.pdb
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\bin\Debug\netcoreapp2.0\Tv_series.EF.dll
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\bin\Debug\netcoreapp2.0\Tv_series.EF.pdb
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\obj\Debug\netcoreapp2.0\Tv_series_tracker.csproj.CopyComplete
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\bin\Debug\netcoreapp2.0\Tv_series.application.dll
+C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series_tracker\bin\Debug\netcoreapp2.0\Tv_series.application.pdb
