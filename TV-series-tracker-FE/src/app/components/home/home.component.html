@@ -1,0 +1,107 @@
+<header style="width: 2000px;margin-left: -45rem;">
+  <div class="container">
+    <div class="intro-text">
+      <div class="intro-lead-in">Make you're life easier -</div>
+      <div class="intro-heading">Track your series</div>
+      <button href="#login" data-toggle="modal" data-target="#mymodal" class="page-scroll btn btn-xl" style="width: 150px; margin-bottom: 2rem;">Login</button>
+      <br>
+      <button href="#login" data-toggle="modal" data-target="#mymodalreg" class="page-scroll btn btn-xl" style="width: 150px;">Register</button>
+      <form action="index.html">
+        <div class="modal fade" id="mymodal">
+          <!-- logino forma -->
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h1 style="color:black">Login</h1>
+              </div>
+              <div class="modal-body">
+                <h4 style="color:black">UserName:
+                  <input style="color:black" type="text" name="user" value="">
+                  <br>
+                </h4>
+
+                <h4 style="color:black">Password:
+                  <input style="color:black" type="password" name="pass" value="">
+                  <br>
+                  <br>
+                </h4>
+
+                <button type="submit" class="page-scroll btn btn-xl">Submit</button>
+              </div>
+              <div class="modal-footer">
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+
+      <form action="index.html">
+        <div class="modal fade" id="mymodalreg">
+          <!-- registracijos forma -->
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h1 style="color:black">Register</h1>
+              </div>
+              <div class="modal-body">
+
+                <h4 style="color:black;text-decoration:underline"> Please fill in this form to create an account.</h4>
+                <br>
+                <br>
+                <img id="myImage" style="height: 300px; width: 270px;" align="right" src="pictures/que.jpg" alt="male">
+                <h4 style="color:black; left: auto;width: 50px;height: 50px;">EMail:
+                  <input style="color:black" type="email" name="email" value="">
+                  <br>
+                </h4>
+
+                <h4 style="color:black; left: auto;width: 50px;height: 50px;">UserName:
+                  <input style="color:black" type="text" name="user" value="">
+                  <br>
+                </h4>
+                <h4 style="color:black; left: auto;width: 50px;height: 50px;">Password:
+                  <input style="color:black" type="password" name="pass" value="">
+                  <br>
+                </h4>
+                <h4 style="color:black; left: auto;width: 50px;height: 50px;">Birthday:
+                  <input style="color:black" type="date" name="bday" value="">
+                  <br>
+                </h4>
+
+                <h4 style="color:black;float:left;">Gender: </h4>
+                <br>
+                <br>
+                <form>
+                  <label style="color:black;float:left" class="radio-inline">
+                    <input type="radio" name="optradio" onclick="document.getElementById('myImage').src='pictures/male.png'">Male
+                  </label>
+                  <label style="color:black;float:left" class="radio-inline">
+                    <input type="radio" name="optradio" onclick="document.getElementById('myImage').src='pictures/fem.gif'">Female
+                  </label>
+                  <label style="color:black;float:left" class="radio-inline">
+                    <input type="radio" name="optradio" onclick="document.getElementById('myImage').src='pictures/que.jpg'">Other
+                  </label>
+                </form>
+
+
+
+
+                <br>
+                <br>
+
+              </div>
+              <div class="modal-footer">
+                <div class="form-control-static pull-left">
+                  <button type="submit" class=" btn btn-xl btn-default" style="width: 355%">Submit</button>
+                  <br>
+                </div>
+              </div>
+
+
+            </div>
+          </div>
+        </div>
+      </form>
+
+    </div>
+  </div>
+</header>

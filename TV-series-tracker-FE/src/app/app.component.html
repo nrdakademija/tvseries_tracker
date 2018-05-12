@@ -1,0 +1,55 @@
+<nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span> Menu
+                <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand page-scroll" href="#">TV Series Tracker</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="hidden">
+                    <a href="#page-top"></a>
+                </li>
+                <li>
+                    <a href="http://www.imdb.com/search/title?title_type=tv_series">Top Tv Series</a>
+                </li>
+                <li class="nav-item" [class.active]="router.url === '/tvseries'">
+                    <a class="nav-link" routerLink="tvseries">Tv Series</a>
+                </li>
+                <li class="nav-item" [class.active]="router.url === '/calendar'">
+                    <a class="nav-link" routerLink="calendar">Calendar</a>
+                </li>
+                <li class="nav-item" [class.active]="router.url === '/myseries'">
+                    <a class="nav-link" routerLink="myseries">My Series</a>
+                </li>
+                <li>
+                    <a class="page-scroll" data-toggle="modal" data-target="#mymodal" href="#login">Login</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav>
+
+<div class="container pt-5">
+    <router-outlet></router-outlet>
+</div>
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4">
+                <span class="copyright">Copyright &copy; TV Series Tracker 2018</span>
+            </div>
+        </div>
+    </div>
+</footer>
