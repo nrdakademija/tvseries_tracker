@@ -1,13 +1,5 @@
 # Serialų tracker'is/kalendorius
 
-Tai internetinė svetainė, kurioje būtų galima:
-•	Išsaugoti savo žiūrimus serialus;
-•	Matyti asmeniškai pagal žiūrimų serialų sąrašą sudarytą kalendorių (dienos bei savaitės), kuriame būtų atvaizduojami serialų rodymo data bei laikas;
-•	Turėti serialų wishlist;
-•	Ieškoti serialų pagal tam tikrus paieškos kriterijus;
-•	Pažymėti seriją kaip peržiūrėtą;
-•	Matyti sąrašą neperžiūrėtų serialo serijų.
-
 Kristina
 Emilija
 Rokas
