@@ -1,9 +1,0 @@
-C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series.EF\bin\Debug\netcoreapp2.0\Tv_series.EF.deps.json
-C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series.EF\bin\Debug\netcoreapp2.0\Tv_series.EF.dll
-C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series.EF\obj\Debug\netcoreapp2.0\Tv_series.EF.csprojResolveAssemblyReference.cache
-C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series.EF\obj\Debug\netcoreapp2.0\Tv_series.EF.csproj.CoreCompileInputs.cache
-C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series.EF\obj\Debug\netcoreapp2.0\Tv_series.EF.AssemblyInfoInputs.cache
-C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series.EF\obj\Debug\netcoreapp2.0\Tv_series.EF.AssemblyInfo.cs
-C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series.EF\bin\Debug\netcoreapp2.0\Tv_series.EF.pdb
-C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series.EF\obj\Debug\netcoreapp2.0\Tv_series.EF.dll
-C:\Users\rokas\source\repos\Tv_series_tracker\Tv_series.EF\obj\Debug\netcoreapp2.0\Tv_series.EF.pdb
